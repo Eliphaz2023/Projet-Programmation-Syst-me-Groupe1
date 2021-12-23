@@ -1,2 +1,5 @@
-# Projet-Programmation-Syst-me-Groupe1
-Développement d’une  application de gestion et supervision du fonctionnement d'un restaurant
+# Projet-Programmation-Systeme-Groupe1
+
+Depot du projet programmation concurente st systeme du Groupe 1
+
+NB : Le "Dossier Architecture (logiciel)" du projet se trouve dans le repertoire "LIVRABLES FINAUX"

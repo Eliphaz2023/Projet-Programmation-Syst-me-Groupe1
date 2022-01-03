@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5ab75a9-3ac7-4385-9489-f394c584588c": {
+      "ProjectGuid": "b5ab75a9-3ac7-4385-9489-f394c584588c",
+      "DisplayName": "Controller",
+      "ColorIndex": 0
+    },
+    "78ef60b3-6510-4a7c-acae-eced9521ab90": {
+      "ProjectGuid": "78ef60b3-6510-4a7c-acae-eced9521ab90",
+      "DisplayName": "Vue",
+      "ColorIndex": 1
+    },
+    "70afdf9a-b4d0-428d-9086-45ca73188425": {
+      "ProjectGuid": "70afdf9a-b4d0-428d-9086-45ca73188425",
+      "DisplayName": "Modele",
+      "ColorIndex": 2
+    },
+    "87fe2235-6690-4439-9a98-77a8d4dbd85c": {
+      "ProjectGuid": "87fe2235-6690-4439-9a98-77a8d4dbd85c",
+      "DisplayName": "ProjetMasterChefTests",
+      "ColorIndex": 3
+    },
+    "4c6524fd-7352-440a-b7d1-a23d3694e5c4": {
+      "ProjectGuid": "4c6524fd-7352-440a-b7d1-a23d3694e5c4",
+      "DisplayName": "ProjetMasterChefTests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

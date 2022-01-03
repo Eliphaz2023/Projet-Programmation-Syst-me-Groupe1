@@ -1,0 +1,18 @@
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\bin\Debug\Modele.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\bin\Debug\Modele.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.pdb
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Modele.dll
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Modele.pdb
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Vue.exe
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Controller.dll
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Vue.pdb
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Vue.exe.config
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\bin\Debug\Controller.pdb
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\obj\Debug\Modele.csproj.AssemblyReference.cache
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\obj\Debug\Modele.csproj.CopyComplete
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\obj\Debug\Modele.dll
+F:\MODULES\3\Projet Programmation Systeme\FIN\Es\Projet-Progra-Restaurant-master\Projet-Progra-Restaurant-master\Prog\Modele\obj\Debug\Modele.pdb

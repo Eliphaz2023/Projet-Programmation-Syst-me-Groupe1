@@ -1,5 +1,6 @@
-# Projet-Programmation-Systeme-Groupe1
+# Projet-Programmation-Systeme
 
-Depot du projet programmation concurente st systeme du Groupe 1
+Depot du projet programmation concurente et systeme
+Ce projet est réaliser ave C#
 
 NB : Le "Dossier Architecture (logiciel)" du projet se trouve dans le repertoire "LIVRABLES FINAUX"
